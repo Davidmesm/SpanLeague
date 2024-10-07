@@ -1,0 +1,12 @@
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.AssemblyInfo.cs
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\bin\Debug\net7.0\SpanLeague.BusinessLogic.deps.json
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\bin\Debug\net7.0\SpanLeague.BusinessLogic.dll
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\bin\Debug\net7.0\SpanLeague.BusinessLogic.pdb
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.dll
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\refint\SpanLeague.BusinessLogic.dll
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\SpanLeague.BusinessLogic.pdb
+C:\Users\dmoreno\Source\SpanLeague\SpanLeague.BusinessLogic\obj\Debug\net7.0\ref\SpanLeague.BusinessLogic.dll

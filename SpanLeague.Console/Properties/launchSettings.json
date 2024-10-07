@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpanLeague.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\dmoreno\\OneDrive - Altimetrik Corp\\Documents\\input.txt\""
+    }
+  }
+}
